@@ -1,0 +1,31 @@
+body{
+background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    background-color: cornflowerblue;
+    text-align: left;
+    float: unset;
+}
+
+.heading h1{
+    font-family: "Zen Loop", cursive;
+    color: black;
+    display: inline;
+}
+
+.heading button{
+    font-family: "Zen Loop", cursive;
+    color: black;
+    background-color: blueviolet;
+    font-size: 25px;
+    float: right;
+}
+
+.bclass{
+    width: 30% ; 
+    font-size: 25px;
+    font-family: "Zen Loop", cursive;
+    background-color: darkviolet;
+}
